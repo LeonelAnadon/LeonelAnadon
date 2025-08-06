@@ -31,7 +31,7 @@ Soy un apasionado por el desarrollo web y me copa meterme en proyectos interesan
 
 Si querés charlar, ¡escribime a mi correo electrónico: leonelanadon95@gmail.com! 
 
-<img align="left" src="https://lanadon.com.ar/assets/sign_black-4381804a.png" width="200">
+<img align="left" src="https://leonelanadon.resolvitas.lol/assets/sign_black-4381804a.png" width="200">
 
 
 
