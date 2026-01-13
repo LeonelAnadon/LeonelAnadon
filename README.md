@@ -11,6 +11,7 @@ Soy un apasionado por el desarrollo web y me copa meterme en proyectos interesan
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-16x16.png" />][github]
+[Mi Portfolio (web)][miweb]
 
 <br />
 
@@ -28,7 +29,6 @@ Soy un apasionado por el desarrollo web y me copa meterme en proyectos interesan
 
 Si querés charlar, ¡escribime a mi correo electrónico: leonelanadon95@gmail.com! 
 
-<img align="left" src="https://leonelanadon.resolvitas.lol/assets/sign_black-4381804a.png" width="200">
 
 
 
