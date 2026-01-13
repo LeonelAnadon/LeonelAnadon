@@ -5,7 +5,7 @@ Soy un apasionado por el desarrollo web y me copa meterme en proyectos interesan
 ## Sobre mí
 
 - 🌍 Soy de Argentina, San Miguel de Tucumán
-- 💻 Actualmente trabajo como desarrollador Front-End
+- 💻 Actualmente trabajo como desarrollador Full Stack
 
 ## Encontrame en la web 🌐
 
@@ -14,16 +14,13 @@ Soy un apasionado por el desarrollo web y me copa meterme en proyectos interesan
 
 <br />
 
-## Mis Proyectos Destacados 🚀
+## Editor de código gratuito para hacer pruebas. Fork it if you want! 😁
 
 - [RamJS: Editor código JS Online](https://ramjs.resolvitas.lol) 📟
-- [Cofutbol: Partidos con amigos](https://cofutbol.resolvitas.lol) ⚽
-- [Movies Keeper App](https://github.com/LeonelAnadon/movies-keeper-app) 📽️
-- [Chat App Grieg](https://github.com/LeonelAnadon/chat-app-grieg-client) 🤳
 
 [linkedin]: https://www.linkedin.com/in/leonelanadon/
 [github]: https://github.com/LeonelAnadon
-[miweb]: https://leonelanadon.resolvitas.com.ar
+[miweb]: https://leonelanadon.duco.lat
 
 <hr />
 
